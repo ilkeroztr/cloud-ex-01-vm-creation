@@ -15,7 +15,7 @@ Bu repo, Google Cloud üzerinde bir sanal makine (VM) oluşturup, kendi bilgisay
 
 ---
 
-## �️ Ping Çıktısı
+##  Ping Çıktısı
 ```bash
 151 packets transmitted, 151 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 54.465/56.487/62.591/1.350 ms
